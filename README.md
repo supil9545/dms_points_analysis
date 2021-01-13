@@ -1,1 +1,1 @@
-# dms_point_analysis
+# DMS 벌점 분석
